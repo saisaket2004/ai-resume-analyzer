@@ -1,0 +1,8 @@
+streamlit
+streamlit-lottie
+fpdf
+PyMuPDF
+python-docx
+pdfminer.six
+Pillow
+gtts 
